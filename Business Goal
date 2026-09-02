@@ -1,0 +1,3 @@
+I aim for the below business objectives:
+Develop essential IDS development abilities: Build a simple Intrusion Detection System using Python and Scapy to capture, analyse and evaluate real network traffic, capable of discovering dangers like SYN flooding, ARP spoofing, etc.
+Acquire knowledge about packet-level threat detection: Shift from traditional software that works in the black box model and learn how the analysis of raw traffic allows identifying cyber issues.
