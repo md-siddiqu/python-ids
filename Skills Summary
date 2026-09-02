@@ -1,0 +1,35 @@
+Key skills
+Python programming for packet capture, analysis, and automation
+Familiarity with Scapy for network-level scripting
+Understanding of TCP/IP, ARP, and DNS protocols
+Ability to identify attack signatures like SYN flood, ARP spoofing, and DNS spoofing
+Use of tools like Wireshark and tcpdump for packet inspection
+Knowledge of the Linux command-line environment
+Setting up real-time alerts using smtplib in Python
+Logging suspicious activity with timestamps and metadata
+Writing clear, modular, and well-commented code
+Creating project documentation, including README and final reports
+Prior installation and setup of the Kali Linux environment
+Installation of Python 3, Scapy, tcpdump, and Wireshark
+Basic understanding of networking concepts like IPs, MAC addresses, and ports
+Comfort with testing and debugging Python-based cybersecurity tools
+
+Skill application
+Capturing live network packets using custom Python scripts with Scapy
+Analyzing packet data to extract IP addresses, ports, and protocol flags in real-time
+Detecting cyberattacks like TCP SYN floods, ARP spoofing, and DNS spoofing
+Building a lightweight intrusion detection mechanism without third-party tools
+Simulating attacks using tools like hping3, arpspoof, and dnsspoof for testing
+Logging suspicious activity with relevant metadata and timestamps
+Sending real-time alerts via email when threats are detected
+Using tools like Wireshark and tcpdump for deep packet inspection and validation
+Documenting the full project lifecycle, including code, diagrams, screenshots, and attack simulations
+Creating detailed instructions and a user-friendly guide for replicating the sniffer system
+
+Employability skills practiced
+Analytical thinking
+Attention to detail
+Problem solving
+Critical thinking
+Communication
+Learning agility
