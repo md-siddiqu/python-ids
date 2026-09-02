@@ -1,0 +1,3 @@
+A lightweight intrusion detection system (IDS) using Python and Scapy, with the aim of monitoring live traffic.
+The project allows learning to detect suspicious activities like SYN flooding or strange ARP response, and generate alerts about attacks in real time.
+The project will be very useful to understand how to perform packet analysis, create threat signatures, and generate alerts about security threats.
