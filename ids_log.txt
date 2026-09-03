@@ -1,0 +1,66 @@
+Thu Sep  3 00:58:25 2026: DNS Spoofing possible: www.youtube.com. resolved to 2001:4860:4827:400:: (previously 142.251.156.4)
+Thu Sep  3 00:58:25 2026: Potential SYN flood from 10.0.3.15 -> 142.251.156.4
+Thu Sep  3 00:58:43 2026: DNS Spoofing possible: www.google.com. resolved to 2001:4860:4826:7700:: (previously 142.251.153.119)
+Thu Sep  3 01:03:10 2026: DNS Spoofing possible: www.google.com. resolved to 142.251.154.119 (previously 2001:4860:482c:7700::)
+Thu Sep  3 01:03:19 2026: DNS Spoofing possible: encrypted-tbn2.gstatic.com. resolved to 2404:6800:4007:83b::200e (previously 172.217.24.110)
+Thu Sep  3 01:03:19 2026: DNS Spoofing possible: encrypted-tbn1.gstatic.com. resolved to 2404:6800:4013:813::8a (previously 192.178.158.100)
+Thu Sep  3 01:03:20 2026: DNS Spoofing possible: encrypted-tbn0.gstatic.com. resolved to 2404:6800:4007:83e::200e (previously 142.250.183.142)
+Thu Sep  3 01:03:21 2026: DNS Spoofing possible: play.google.com. resolved to 2404:6800:4013:813::8a (previously 142.250.122.139)
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: www.googleadservices.com. resolved to 192.178.158.155 (previously 142.250.118.155)
+Thu Sep  3 01:03:50 2026: Potential SYN flood from 10.0.3.15 -> 192.178.158.155
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: www.googletagmanager.com. resolved to 2404:6800:4007:836::2008 (previously 192.178.134.97)
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: csp.withgoogle.com. resolved to 2404:6800:4007:834::2011 (previously 192.178.158.141)
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: www.gstatic.com. resolved to 2404:6800:4007:810::2003 (previously 142.251.43.67)
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: ogads-pa.clients6.google.com. resolved to 2404:6800:4013:813::5f (previously 142.250.122.95)
+Thu Sep  3 01:03:50 2026: DNS Spoofing possible: www.youtube.com. resolved to 2001:4860:4827:400:: (previously 142.251.152.4)
+Thu Sep  3 01:03:50 2026: Potential SYN flood from 10.0.3.15 -> 142.251.156.4
+Thu Sep  3 01:03:51 2026: DNS Spoofing possible: ep1.adtrafficquality.google. resolved to 2404:6800:4013:802::9c (previously 142.250.118.157)
+Thu Sep  3 01:03:51 2026: DNS Spoofing possible: ep1.adtrafficquality.google. resolved to 142.250.118.154 (previously 142.250.118.157)
+Thu Sep  3 01:03:51 2026: Potential SYN flood from 10.0.3.15 -> 142.250.118.154
+Thu Sep  3 01:03:51 2026: DNS Spoofing possible: ep2.adtrafficquality.google. resolved to 2404:6800:4007:832::2001 (previously 142.250.182.1)
+Thu Sep  3 01:03:51 2026: DNS Spoofing possible: pagead2.googlesyndication.com. resolved to 2404:6800:4013:811::9d (previously 142.251.223.226)
+Thu Sep  3 01:03:52 2026: Potential SYN flood from 10.0.3.15 -> 142.250.118.154
+Thu Sep  3 01:04:14 2026: DNS Spoofing possible: www.google.com. resolved to 142.251.152.119 (previously 2001:4860:482c:7700::)
+Thu Sep  3 01:04:14 2026: DNS Spoofing possible: www.google.com. resolved to 2001:4860:482b:7700:: (previously 2001:4860:482c:7700::)
+Thu Sep  3 01:04:46 2026: DNS Spoofing possible: play.google.com. resolved to 142.250.122.113 (previously 142.250.122.139)
+Thu Sep  3 01:04:46 2026: DNS Spoofing possible: play.google.com. resolved to 2404:6800:4013:813::71 (previously 142.250.122.139)
+Thu Sep  3 01:05:05 2026: DNS Spoofing possible: www.gstatic.com. resolved to 2404:6800:4007:817::2003 (previously 142.251.43.67)
+Thu Sep  3 01:05:06 2026: DNS Spoofing possible: csp.withgoogle.com. resolved to 2404:6800:4007:834::2011 (previously 192.178.158.141)
+Thu Sep  3 01:05:06 2026: DNS Spoofing possible: ogads-pa.clients6.google.com. resolved to 2404:6800:4013:813::5f (previously 142.250.122.95)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: ep1.adtrafficquality.google. resolved to 2404:6800:4013:802::9a (previously 142.250.118.157)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: ep2.adtrafficquality.google. resolved to 2404:6800:4013:811::84 (previously 142.250.182.1)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: pagead2.googlesyndication.com. resolved to 2404:6800:4013:811::9b (previously 142.251.223.226)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: encrypted-tbn2.gstatic.com. resolved to 2404:6800:4007:83b::200e (previously 172.217.24.110)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: encrypted-tbn1.gstatic.com. resolved to 192.178.158.139 (previously 192.178.158.100)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: encrypted-tbn1.gstatic.com. resolved to 2404:6800:4013:813::66 (previously 192.178.158.100)
+Thu Sep  3 01:05:07 2026: DNS Spoofing possible: encrypted-tbn3.gstatic.com. resolved to 2404:6800:4007:831::200e (previously 142.251.221.206)
+Thu Sep  3 01:05:18 2026: DNS Spoofing possible: www.google.com. resolved to 142.251.154.119 (previously 2001:4860:482c:7700::)
+Thu Sep  3 12:59:13 2026: DNS Spoofing possible: encrypted-tbn1.gstatic.com. resolved to 2404:6800:4007:834::200e (previously 142.251.43.142)
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 142.251.43.142
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 142.251.43.142
+Thu Sep  3 12:59:13 2026: DNS Spoofing possible: encrypted-tbn0.gstatic.com. resolved to 2404:6800:4007:821::200e (previously 172.217.24.174)
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.174
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.174
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.174
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.174
+Thu Sep  3 12:59:13 2026: DNS Spoofing possible: encrypted-tbn3.gstatic.com. resolved to 2404:6800:4013:811::66 (previously 142.251.221.206)
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 142.251.221.206
+Thu Sep  3 12:59:13 2026: Potential SYN flood from 10.0.3.15 -> 142.251.221.206
+Thu Sep  3 12:59:23 2026: DNS Spoofing possible: www.google.com. resolved to 2001:4860:482b:7700:: (previously 142.251.157.119)
+Thu Sep  3 12:59:31 2026: DNS Spoofing possible: www.gstatic.com. resolved to 2404:6800:4013:802::5e (previously 142.251.221.99)
+Thu Sep  3 12:59:32 2026: Potential SYN flood from 10.0.3.15 -> 142.250.183.162
+Thu Sep  3 12:59:32 2026: DNS Spoofing possible: csp.withgoogle.com. resolved to 2404:6800:4007:808::2011 (previously 142.250.182.241)
+Thu Sep  3 12:59:32 2026: DNS Spoofing possible: www.googletagmanager.com. resolved to 2404:6800:4007:810::2008 (previously 172.217.26.8)
+Thu Sep  3 12:59:32 2026: DNS Spoofing possible: ogads-pa.clients6.google.com. resolved to 2404:6800:4007:815::200a (previously 142.251.43.42)
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:33 2026: Potential SYN flood from 10.0.3.15 -> 172.217.24.129
+Thu Sep  3 12:59:34 2026: DNS Spoofing possible: play.google.com. resolved to 2404:6800:4013:804::8a (previously 192.178.177.101)
+Thu Sep  3 12:59:34 2026: DNS Spoofing possible: ep1.adtrafficquality.google. resolved to 2404:6800:4013:813::9d (previously 142.251.43.34)
+Thu Sep  3 12:59:34 2026: Potential SYN flood from 10.0.3.15 -> 142.251.43.34
+Thu Sep  3 12:59:34 2026: DNS Spoofing possible: ep2.adtrafficquality.google. resolved to 2404:6800:4013:807::84 (previously 192.178.158.132)
+Thu Sep  3 12:59:34 2026: DNS Spoofing possible: pagead2.googlesyndication.com. resolved to 2404:6800:4002:829::2002 (previously 142.251.43.130)
+Thu Sep  3 12:59:35 2026: Potential SYN flood from 10.0.3.15 -> 142.251.43.34
